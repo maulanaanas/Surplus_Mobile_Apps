@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ORD-001_Verify user success order a product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb2f6229-a49c-4f43-b05c-277035cc279f</testCaseGuid>
+</TestCaseEntity>
